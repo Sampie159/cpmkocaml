@@ -1,0 +1,11 @@
+lib: [
+  "_build/install/default/lib/cpmkocaml/META"
+  "_build/install/default/lib/cpmkocaml/dune-package"
+  "_build/install/default/lib/cpmkocaml/opam"
+]
+bin: [
+  "_build/install/default/bin/cpmkocaml"
+]
+doc: [
+  "_build/install/default/doc/cpmkocaml/LICENSE"
+]
